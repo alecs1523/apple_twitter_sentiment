@@ -68,11 +68,11 @@ Build an interactive dashboard for stakeholders to explore forecasts and trends 
 Explore Advanced Models:
 
 ## Navigating the Git Repository 
-1. [ReadME] (https://github.com/alecs1523/zip_code_investment_analysis/blob/main/README.md)
-2. [CAGR_zip_code_csv] (https://github.com/alecs1523/zip_code_investment_analysis/blob/main/forecasted_growth_results.csv)
-3. [zillow data] (https://github.com/alecs1523/zip_code_investment_analysis/blob/main/zillow_data.csv)
-4. [Presentation PDF] (https://github.com/alecs1523/zip_code_investment_analysis/blob/main/zip_code_investment_analysis.pdf)
-5. [Jupyter Notebook] (https://github.com/alecs1523/zip_code_investment_analysis/blob/main/zip_code_price_predictions.ipynb)
+1. [ReadME](https://github.com/alecs1523/zip_code_investment_analysis/blob/main/README.md)
+2. [CAGR_zip_code_csv](https://github.com/alecs1523/zip_code_investment_analysis/blob/main/forecasted_growth_results.csv)
+3. [zillow data](https://github.com/alecs1523/zip_code_investment_analysis/blob/main/zillow_data.csv)
+4. [Presentation PDF](https://github.com/alecs1523/zip_code_investment_analysis/blob/main/zip_code_investment_analysis.pdf)
+5. [Jupyter Notebook](https://github.com/alecs1523/zip_code_investment_analysis/blob/main/zip_code_price_predictions.ipynb)
 
 
 
