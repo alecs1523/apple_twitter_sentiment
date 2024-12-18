@@ -67,7 +67,11 @@ Visualize Insights:
 Build an interactive dashboard for stakeholders to explore forecasts and trends dynamically.
 Explore Advanced Models:
 
-Test machine learning ap
+## Navigating the Git Repository 
+1. (ReadME) [https://github.com/alecs1523/zip_code_investment_analysis/blob/main/README.md]
+2. 
+
+
 
 ## Contact
 **Alec Schonfeld**  
